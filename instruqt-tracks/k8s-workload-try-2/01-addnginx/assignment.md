@@ -1,20 +1,16 @@
 ---
 slug: addnginx
-id: tls8crwkzzxt
 type: challenge
 title: addnginx
 teaser: Do it! Add nginx! Go on!
 notes:
-- type: text
-  contents: |-
-    *Do the thing!*
-
-    Make a Kubernetes! Do it!
+  - type: video
+    url: ../assets//01-addnginx/zinger.mp4
 tabs:
-- title: Nginx
-  type: service
-  hostname: kubernetes-vm
-  port: 30001
+  - title: Nginx
+    type: service
+    hostname: kubernetes-vm
+    port: 30001
 difficulty: basic
 timelimit: 600
 ---

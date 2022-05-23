@@ -1,8 +1,7 @@
-slug: k8s-workload-try-2
-id: hdgcf8unmmxn
+slug: k8s-workload-try-2-dev
 version: 0.0.1
 type: track
-title: k8s-workload-try-2
+title: DEV - k8s-workload-try-2
 teaser: Make a K8s workload work in a track in a tab!
 description: |-
   Trying to make this basic track work, but from web interface this time since the instructions for CLI are so bad.
@@ -11,10 +10,10 @@ description: |-
 icon: ""
 level: beginner
 tags:
-- ""
+  - ""
 owner: traceable
 developers:
-- dan@traceable.ai
+  - dan@traceable.ai
 private: false
 published: true
 checksum: "11775313744662538627"
