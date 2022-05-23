@@ -1,0 +1,19 @@
+slug: securing-apis-with-traceable
+id: pvtxagqxxzyi
+type: track
+title: Securing APIs with Traceable
+teaser: How to take your API security posture from 0 to 360
+description: This workshop is intended to help security professionals and software
+  engineers better understand the API landscape as an attack surface and how to solve
+  for security challenges within the API landscape using Traceable AI.
+icon: https://www.traceable.ai/wp-content/uploads/2021/10/traceable-vertical-lightbg@2x-1-p-500.png
+tags: []
+owner: traceable
+developers:
+- saad@traceable.ai
+- mark.franklin@traceable.ai
+- sean@instruqt.com
+- dan@traceable.ai
+private: true
+published: true
+checksum: "6707629963121427332"

@@ -1,0 +1,20 @@
+slug: k8s-workload-try-2
+id: hdgcf8unmmxn
+version: 0.0.1
+type: track
+title: k8s-workload-try-2
+teaser: Make a K8s workload work in a track in a tab!
+description: |-
+  Trying to make this basic track work, but from web interface this time since the instructions for CLI are so bad.
+
+  ![alt foo](https://www.traceable.ai/wp-content/uploads/2022/05/know-your-risk-exposure.webp "Opening screen")
+icon: ""
+level: beginner
+tags:
+- ""
+owner: traceable
+developers:
+- dan@traceable.ai
+private: false
+published: true
+checksum: "11775313744662538627"

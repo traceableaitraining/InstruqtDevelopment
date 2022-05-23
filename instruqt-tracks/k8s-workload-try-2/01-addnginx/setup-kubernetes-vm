@@ -1,0 +1,23 @@
+#!/bin/bash
+cat <<EOF > service.yml
+apiVersion: v1
+kind: Service
+metadata:
+  labels:
+    app: nginx
+  managedFields:
+  name: nginx
+  namespace: default
+spec:
+  ports:
+  - nodePort: 30001
+    port: 80
+    protocol: TCP
+  selector:
+    app: nginx
+  type: NodePort
+EOF
+
+kubectl create deployment nginx --image nginx
+
+kubectl apply -f service.yml
